@@ -1,6 +1,6 @@
-package com.semanticweb.pipeline;
+package com.fincausal.pipeline;
 
-import com.semanticweb.model.CausalTriple;
+import com.fincausal.model.CausalTriple;
 
 import java.util.List;
 

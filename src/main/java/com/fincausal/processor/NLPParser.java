@@ -1,8 +1,8 @@
-package com.semanticweb.processor;
+package com.fincausal.processor;
 
-import com.semanticweb.model.Document;
-import com.semanticweb.model.Sentence;
-import com.semanticweb.util.ConfigLoader;
+import com.fincausal.model.Document;
+import com.fincausal.model.Sentence;
+import com.fincausal.util.ConfigLoader;
 
 import edu.stanford.nlp.ling.CoreAnnotations;
 import edu.stanford.nlp.ling.CoreLabel;

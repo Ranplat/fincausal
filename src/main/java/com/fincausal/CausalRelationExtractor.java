@@ -1,9 +1,9 @@
-package com.semanticweb;
+package com.fincausal;
 
-import com.semanticweb.model.CausalTriple;
-import com.semanticweb.pipeline.Pipeline;
-import com.semanticweb.pipeline.PipelineBuilder;
-import com.semanticweb.util.ConfigLoader;
+import com.fincausal.model.CausalTriple;
+import com.fincausal.pipeline.Pipeline;
+import com.fincausal.pipeline.PipelineBuilder;
+import com.fincausal.util.ConfigLoader;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

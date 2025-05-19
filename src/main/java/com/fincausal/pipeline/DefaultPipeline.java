@@ -1,10 +1,10 @@
-package com.semanticweb.pipeline;
+package com.fincausal.pipeline;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
-import com.semanticweb.model.CausalTriple;
-import com.semanticweb.model.Document;
-import com.semanticweb.processor.*;
+import com.fincausal.model.CausalTriple;
+import com.fincausal.model.Document;
+import com.fincausal.processor.*;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

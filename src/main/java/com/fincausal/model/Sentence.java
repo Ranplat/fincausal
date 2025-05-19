@@ -1,4 +1,4 @@
-package com.semanticweb.model;
+package com.fincausal.model;
 
 import edu.stanford.nlp.semgraph.SemanticGraph;
 import edu.stanford.nlp.trees.Tree;

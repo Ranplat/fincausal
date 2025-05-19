@@ -1,6 +1,6 @@
-package com.semanticweb.pipeline;
+package com.fincausal.pipeline;
 
-import com.semanticweb.processor.*;
+import com.fincausal.processor.*;
 
 /**
  * 管道构建器

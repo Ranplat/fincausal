@@ -1,8 +1,8 @@
-package com.semanticweb.processor;
+package com.fincausal.processor;
 
-import com.semanticweb.model.CausalTriple;
-import com.semanticweb.model.Document;
-import com.semanticweb.util.ConfigLoader;
+import com.fincausal.model.CausalTriple;
+import com.fincausal.model.Document;
+import com.fincausal.util.ConfigLoader;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

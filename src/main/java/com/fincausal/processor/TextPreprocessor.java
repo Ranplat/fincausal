@@ -1,6 +1,6 @@
-package com.semanticweb.processor;
+package com.fincausal.processor;
 
-import com.semanticweb.util.ConfigLoader;
+import com.fincausal.util.ConfigLoader;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

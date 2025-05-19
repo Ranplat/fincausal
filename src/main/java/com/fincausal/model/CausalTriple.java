@@ -1,4 +1,4 @@
-package com.semanticweb.model;
+package com.fincausal.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
